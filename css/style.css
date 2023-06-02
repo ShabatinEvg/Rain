@@ -4,18 +4,13 @@
 body {
     font-family: "Poppins";
     color: #fff;
-    font-weight: 300;
     background-color: #262c37;
 }
 
 .wrapper {}
 
 /*------------------------------------------------------------------*/
-[class*="__container"] {
-    max-width: 1310px;
-    margin: 0 auto;
-    padding: 0px 15px;
-}
+
 
 /*------------------------------------------------------------------*/
 .page {}
